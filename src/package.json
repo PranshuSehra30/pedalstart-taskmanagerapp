@@ -1,0 +1,21 @@
+{
+  "name": "pedalstart-taskmanagerapp",
+  "version": "1.0.0",
+  "author": "pranshusehra30",
+  "description": "A task management application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PranshuSehra30/pedalstart-taskmanagerapp.git"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "mongodb": "^4.11.0",
+    "mongoose": "^6.8.2"
+  }
+}
