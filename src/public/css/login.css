@@ -1,0 +1,45 @@
+body {
+    background-color: #1e1e1e;
+    color: white;
+    font-family: "Poppins", sans-serif;
+}
+
+.login-container {
+    margin-top: 100px;
+}
+
+.form-label {
+    color: #8b8b8b;
+}
+
+.form-control {
+    background-color: #282828;
+    border: 1px solid #575757;
+    color: white;
+}
+
+.form-control:focus {
+    background-color: #282828;
+    border: 1px solid #03a9f4;
+    color: white;
+}
+
+.btn-outline-secondary,
+.btn-outline-secondary:hover {
+    background-color: #282828;
+    border-color: #575757;
+    color: white;
+}
+
+.btn-outline-secondary:hover {
+    border-color: #03a9f4;
+}
+
+.form-check-label {
+    background-color: #282828;
+    border-color: #03a9f4;
+}
+
+#toast-container {
+    z-index: 11;
+  }
