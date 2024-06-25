@@ -1,0 +1,155 @@
+body {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+.navbar {
+  background-color: #333333;
+}
+
+.card {
+  background-color: #1f1f1f;
+  color: #ffffff;
+}
+
+.card-header {
+  background-color: #212121;
+  border-bottom: 1px solid #333333;
+}
+
+.card-body {
+  border-bottom: 1px solid #333333;
+}
+
+.modal-content {
+  background-color: #1f1f1f;
+  color: #ffffff;
+}
+
+.modal-header {
+  border-bottom: 1px solid #333333;
+}
+
+.form-control,
+.form-select {
+  background-color: #333333;
+  color: #ffffff;
+}
+
+.btn-primary {
+  background-color: #007bff;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+
+.btn-danger {
+  background-color: #dc3545;
+}
+
+.btn-danger:hover {
+  background-color: #b02a37;
+}
+
+.dark-mode-text {
+  color: #ffffff;
+}
+
+.title {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.description {
+  margin-bottom: 1rem;
+}
+
+.due-date {
+  color: #cccccc;
+  margin-bottom: 0.625rem;
+}
+
+.list-group-item {
+  background-color: #313131;
+  border-color: #575757;
+  margin-bottom: 0.625rem;
+  padding: 0.625rem;
+}
+
+.tag {
+  font-size: 0.875rem;
+  padding: 0.125rem 0.3125rem;
+  border: 1px solid;
+  border-radius: 5px;
+  margin-bottom: 0.3125rem;
+  width: fit-content;
+}
+
+.tag.low {
+  border-color: #808080;
+  color: #808080;
+}
+
+.tag.mid {
+  border-color: #ffd700;
+  color: #ffd700;
+}
+
+.tag.high {
+  border-color: #dc3545;
+  color: #dc3545;
+}
+
+.bi-clock {
+  margin-right: 0.3125rem;
+}
+
+.hr {
+  width: 200%;
+}
+
+.form-control.search-bar::placeholder {
+  color: #ffffff;
+}
+
+.modal-content,
+.modal-header,
+.modal-body,
+.modal-footer,
+.modal-dialog {
+  background-color: #1f1f1f;
+  color: #ffffff;
+}
+
+.form-control:focus {
+  background-color: #1f1f1f;
+  color: #ffffff;
+}
+
+.matched-item {
+  border: 2px solid #28a745;
+}
+
+.loading-screen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #00000068;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+.spinner-grow {
+  width: 5rem;
+  height: 5rem;
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+  filter: invert(1); /* Invert the color of the icon to white */
+}
