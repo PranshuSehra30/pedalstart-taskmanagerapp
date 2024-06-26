@@ -1,4 +1,8 @@
-# pedalstart-taskmanagerapp
+# Pedalstart-taskmanagerapp
+
+
+
+
 **Effortless Collaboration, Achieve More Together**
 
 Welcome to Pedal Start Task Manager App, your go-to platform for seamless project management and collaboration. This application is designed to help teams streamline their projects, enhance collaboration, and achieve their goals effectively.
