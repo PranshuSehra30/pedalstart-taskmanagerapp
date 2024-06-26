@@ -18,6 +18,8 @@ Welcome to Pedal Start Task Manager App, your go-to platform for seamless projec
 
 ## CheckIt Out
 -https://pedalstart-taskmanagerapp.vercel.app/
+
+## Preview
 ![image](https://github.com/PranshuSehra30/pedalstart-taskmanagerapp/assets/110589138/f6ed82e2-eb73-4f9b-bcf4-2b27f7bf20fd)
 ![image](https://github.com/PranshuSehra30/pedalstart-taskmanagerapp/assets/110589138/d62f85ac-0dbf-4486-bb86-6a00355186de)
 ![image](https://github.com/PranshuSehra30/pedalstart-taskmanagerapp/assets/110589138/7776a31f-4b17-4cd8-8508-3df87ff4f665)
