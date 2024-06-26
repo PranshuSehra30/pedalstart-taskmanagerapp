@@ -7,3 +7,19 @@
 
 # DataBase
 ![image](https://github.com/PranshuSehra30/pedalstart-taskmanagerapp/assets/110589138/19c704c3-e930-44df-b7f2-3c6e3e81e098)
+
+# Technologies used
+
+-HTML (Hypertext Markup Language)
+-CSS (Cascading Style Sheets)
+-JavaScript
+-Bootstrap 5
+-Node.js
+-Express.js
+-Express-session
+-MongoDB
+-Mongoose
+
+# System Architecture
+![system art used](https://github.com/PranshuSehra30/pedalstart-taskmanagerapp/assets/110589138/a70b3150-3062-4056-867a-ba60f6aff442)
+
