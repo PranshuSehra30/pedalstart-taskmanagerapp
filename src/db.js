@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 const User = require('./userModel');
-
-mongoose.connect('mongodb://localhost:27017/pedalstart', {
+require('dotenv').config();
+mongoose.connect(process.env.MONGODB_URI, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
