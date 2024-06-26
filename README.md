@@ -27,17 +27,12 @@ Welcome to Pedal Start Task Manager App, your go-to platform for seamless projec
 # DataBase
 ![image](https://github.com/PranshuSehra30/pedalstart-taskmanagerapp/assets/110589138/19c704c3-e930-44df-b7f2-3c6e3e81e098)
 
-# Technologies used
+## Technology Stack
 
--HTML (Hypertext Markup Language)
--CSS (Cascading Style Sheets)
--JavaScript
--Bootstrap 5
--Node.js
--Express.js
--Express-session
--MongoDB
--Mongoose
+- **Frontend**: HTML, CSS, Bootstrap
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB with Mongoose
+- **Deployment**: Vercel
 
 # System Architecture
 ![system art used](https://github.com/PranshuSehra30/pedalstart-taskmanagerapp/assets/110589138/a70b3150-3062-4056-867a-ba60f6aff442)
