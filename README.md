@@ -1,4 +1,4 @@
-# Pedalstart-taskmanagerapp
+# ![favicon-padelStart](https://github.com/PranshuSehra30/pedalstart-taskmanagerapp/assets/110589138/a90bc745-63ff-4203-a3cc-440a9043ff0b) Pedalstart-taskmanagerapp
 
 
 
