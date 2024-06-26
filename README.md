@@ -14,6 +14,7 @@ Welcome to Pedal Start Task Manager App, your go-to platform for seamless projec
 - **Prioritization**: Assign priority tags to tasks to focus on what's important.
 - **Due Dates**: Set due dates to keep track of deadlines.
 - **Responsive Design**: Access the application on any device with a responsive interface.
+**CheckIt Out
 -https://pedalstart-taskmanagerapp.vercel.app/
 ![image](https://github.com/PranshuSehra30/pedalstart-taskmanagerapp/assets/110589138/f6ed82e2-eb73-4f9b-bcf4-2b27f7bf20fd)
 ![image](https://github.com/PranshuSehra30/pedalstart-taskmanagerapp/assets/110589138/d62f85ac-0dbf-4486-bb86-6a00355186de)
